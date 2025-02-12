@@ -1,0 +1,6 @@
+[submodule "RustServer"]
+	path = RustServer
+	url = https://github.com/doqin/RustServer.git/
+[submodule "AndroidClient"]
+	path = AndroidClient
+	url = https://github.com/doqin/AndroidClient.git/
